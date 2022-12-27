@@ -46,4 +46,4 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-// This program is just to get a little familiar with the animations in Flutter
+// This program is just to get a little familiar with the AnimatedContainer and AnimationController  in Flutter
